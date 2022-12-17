@@ -1,1 +1,4 @@
 hello word
+hello world from git hub
+git is better than git hub
+learn git hub,to get the greate jobs
